@@ -1,0 +1,7 @@
+name: WelcomeBroadcast
+description: Sends welcome message to everyone when a player joins.
+website: https://bpd.skjsjhb.moe/docs/welcome-broadcast/setup-project
+author: skjsjhb
+main: Main
+version: 1.0
+api-version: 1.21
