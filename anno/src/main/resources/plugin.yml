@@ -1,0 +1,7 @@
+name: Anno
+author: skjsjhb
+description: Shows customized announcement to players.
+website: https://bpd.skjsjhb.moe/docs/anno/setup-project
+main: Main
+version: 1.0
+api-version: 1.21
