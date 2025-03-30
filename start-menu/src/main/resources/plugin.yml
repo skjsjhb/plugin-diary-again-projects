@@ -1,0 +1,12 @@
+name: StartMenu
+author: skjsjhb
+description: A tiny menu with custom command support.
+website: https://bpd.skjsjhb.moe/docs/the-tutorial/start-menu/sketch
+main: Main
+version: 1.0
+api-version: 1.21
+
+commands:
+  menu:
+    usage: /menu
+    description: 打开菜单

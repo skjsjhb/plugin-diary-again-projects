@@ -8,7 +8,7 @@ class Main : JavaPlugin() {
     override fun onEnable() {
         saveDefaultConfig()
         val isEnabled = config.getBoolean("enabled", false)
-        val content = config.getString("content", "(Announcement Here)") as String
+        val content = config.getString("content", "(Announcement Here)")!!
 
         val eventHandlers = object : Listener {
             @EventHandler

@@ -1,0 +1,7 @@
+enabled: true
+command:
+  label: "Ciallo～(∠・ω< )⌒☆"
+  run: "say Ciallo～(∠・ω< )⌒☆"
+liftoff:
+  velocity: 5
+
