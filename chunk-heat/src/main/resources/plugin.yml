@@ -1,0 +1,11 @@
+name: ChunkHeat
+author: skjsjhb
+description: Reduce lag caused by mob farms.
+website: https://bpd.skjsjhb.moe/docs/the-tutorial/chunk-heat/sketch
+main: Main
+version: 1.0
+api-version: 1.21
+commands:
+  chunk-heat:
+    usage: /chunk-heat <enable|disable>
+    description: Enable or disable chunk heat calculation.

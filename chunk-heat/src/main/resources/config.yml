@@ -1,0 +1,7 @@
+enabled: false
+mobs:
+  - "minecraft:zombie"
+  - "minecraft:creeper"
+  - "minecraft:skeleton"
+overheat: 256
+cooldown: 200
