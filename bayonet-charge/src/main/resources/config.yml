@@ -1,0 +1,24 @@
+# 控制插件是否启用
+enabled: true
+
+# 可触发冲锋的物品
+items:
+  - minecraft:iron_sword
+
+# 速度等级
+speed-amplifier: 2
+
+# 最大冲锋距离
+max-distance: 30
+
+# 冲锋结束后的缓慢效果等级
+slowness-amplifier: 2
+
+# 冲锋结束后的缓慢效果时间
+slowness-duration: 100
+
+# 冲锋体力条显示的文字
+title: 刺刀冲锋 - 停止疾跑以取消
+
+# 冲锋击杀发送的消息
+kill-msg: 你使用刺刀冲锋击杀了 {name}
