@@ -1,0 +1,5 @@
+# 插件是否启用
+enabled: true
+
+# 验证器中显示的颁发者
+issuer: Minecraft Server

@@ -1,0 +1,11 @@
+name: TOTP
+author: skjsjhb
+description: TOTP 2FA plugin for your server.
+website: https://bpd.skjsjhb.moe/docs/the-tutorial/totp/sketch
+main: Main
+version: 1.0
+api-version: 1.21
+
+commands:
+  totp:
+    description: Enable TOTP or authenticate with TOTP code.
